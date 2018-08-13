@@ -32,7 +32,7 @@ click on **Go to My Atlassian**, and click on **create a new account** (or you c
 Git can used through command line and GUI interface. Originally, git was written for Linux/GNU operating systems which use a command line shell known as `bash`, when git was made available on windows the git shell commands were packaged as *Git Bash* along with additional tools that allows users to use similar commands found on Linux operating systems. In this workshop, we will emphasize on Git Bash, but will cover GUI options using using SourceTree. However, before you can use git bash you will need to learn some bash basics, the following assignment will cover basic bash commands:
 
 * The goal here is to gain basic knowledge of bash commands to navigate between folders, create and move files and folders, delete items etc.,
-* Please review this (Extremely Short Introduction to Bash0[http://www.karlin.mff.cuni.cz/~hron/fenics-tutorial/bash/doc.html]. *(Note: only need to focus on sub-section titled **Basic shell commands**)*
+* Please review this [Extremely Short Introduction to Bash](http://www.karlin.mff.cuni.cz/~hron/fenics-tutorial/bash/doc.html). *(Note: only need to focus on sub-section titled **Basic shell commands**)*
 * [More detailed explanations](https://www.guru99.com/must-know-linux-commands.html) of bash commands
 * Once you've reviewed these commands, you can try them out by starting SourceTree, and pressing `Shift + Alt + T`. This should open a terminal window where you can enter bash commands. Also, give it a few minutes for it to start up, and on your terminal window you should see the following text in following format:  `username@computer name MINGW32 ~`
 

@@ -1,6 +1,6 @@
 # Pre-workshop assignments
 
-This page has all the pre-workshop assignments that need to be completed before the git workshop. Please try to complete the assignments otherwise, it will be difficult to follow along during the workshop. Total estimated time for these assignments should be ~1 hr. The due date is **August 20, 2018**.
+This page has all the pre-workshop assignments that need to be completed before the Git workshop. Please try to complete the assignments otherwise, it will be difficult to follow along during the workshop. Total estimated time for these assignments should be ~1 hr. The due date is **August 20, 2018**.
 
 **Requirements:** Laptop (*with SourceTree installed*)
 

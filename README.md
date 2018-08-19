@@ -6,3 +6,5 @@
 1. Pre-workshop assignments (due by August 21) (see pre-workshop folder)
 2. Day 1: TBD
 3. Day 2: TBD
+
+[!PlayChanges](https://swcarpentry.github.io/git-novice/fig/play-changes.svg)

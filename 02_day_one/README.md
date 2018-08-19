@@ -88,9 +88,10 @@ In your terminal window type:
 #### Setup Global Configurations
 Let's configure a few settings on Git such as name, email and text editor:
 
+    ```bash
     ~ git config --global user.name "FirstName LastName"
     ~ git config --global user.email "FLastName@Chesapeakebay.net"
-    ~ git config --global color.ui "auto"
+    ~ git config --global color.ui "auto"```
 
 The `--global` setting makes sure that any project you work on from this computer will have the above username and email. 
 

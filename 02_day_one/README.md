@@ -88,7 +88,7 @@ In your terminal window type:
 #### Setup Global Configurations
 Let's configure a few settings on Git such as name, email and text editor:
 
-    ```bash
+    ```console
     ~ git config --global user.name "FirstName LastName"
     ~ git config --global user.email "FLastName@Chesapeakebay.net"
     ~ git config --global color.ui "auto"```

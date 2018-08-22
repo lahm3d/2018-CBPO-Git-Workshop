@@ -43,7 +43,7 @@ There are two methods of creating a repository and we go through both of them on
 11. You should see the follow options on your screen:
 
 <!-- ![](images/test_repo.png =600x600) -->
-<img src="images/test_repo.png" height="580">
+<img src="https://raw.githubusercontent.com/lahm3d/2018-CBPO-Git-Workshop/master/day_02/images/test_repo.PNG" height="580">
 
 + First option: 'create a new repository on the command line', you are basically using your terminal window to type the commands to create a repository from scratch
 + Second option: 'push an existing repository from the command line', this means you already have a local repository and you want to `push` it to GitHub

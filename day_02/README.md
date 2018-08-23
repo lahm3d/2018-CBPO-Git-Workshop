@@ -42,7 +42,7 @@ There are two methods of creating a repository and we go through both of them on
 10. Click **Create repository**, and you have created an empty placeholder location on GitHub. This allows us to either `push` a local repository to GitHub, or if you want you can create a new repository using the same process on GitHub from scratch (*We will get to the term `push` shortly, just remember it is a Git command*)
 11. You should see the follow options on your screen:
 
-![](images/test_repo.png)
+![test_repo](images/test_repo.PNG)
 
 + First option: 'create a new repository on the command line', you are basically using your terminal window to type the commands to create a repository from scratch
 + Second option: 'push an existing repository from the command line', this means you already have a local repository and you want to `push` it to GitHub
